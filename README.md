@@ -3,7 +3,7 @@ High school project where I created a Pixar and Dreamworks themed game of Hangma
 
 ### Instructions to run:
   1. Download the repository
-  2. Run **_Lavanya Sood_ HangmanGame.py_** to run the file
+  2. Run **_Lavanya Sood\_HangmanGame.py_** to run the file
   
-Refer to *Lavanya Sood_ HangmanGameDoc.pdf* for further details
+Refer to *Lavanya Sood\_HangmanGameDoc.pdf* for further details
   
